@@ -23,7 +23,9 @@ algorithm
 I have provided some sources from where I studied the algorithm in the references section.<br>
 ![Screenshot from 2019-03-22 02-29-04](https://user-images.githubusercontent.com/24778913/54785841-3f515b80-4c4d-11e9-87f1-57d7b7badad7.png)
 
-
+# Things to improve
+1) The process of converting a high resolution image into a grid is not accurate and is also not very efficient.<br>
+2) Plotting the result on the live camera feed.<br>
 
 
 # References 
