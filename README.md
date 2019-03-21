@@ -16,7 +16,7 @@ algorithm
 ## 2) Detect the maze using image thresholding
 ![Screenshot from 2019-03-22 02-23-11](https://user-images.githubusercontent.com/24778913/54785762-07e2af00-4c4d-11e9-8472-08152d4930b1.png)
 ## 3) Convert the image into a smaller grid (because the image size is very big)
-![Screenshot from 2019-03-22 02-29-04](https://user-images.githubusercontent.com/24778913/54785802-234dba00-4c4d-11e9-8e3e-2042cf1048f2.png)
+![Screenshot from 2019-03-22 02-28-13](https://user-images.githubusercontent.com/24778913/54787244-22b72280-4c51-11e9-83b4-04e8021a5ee3.png)
 ## 4) Take the start and the end point from the user
 ![Screenshot from 2019-03-22 02-28-53](https://user-images.githubusercontent.com/24778913/54785826-33659980-4c4d-11e9-9c9f-c7e87fa48fb7.png)
 ## 5) Solve the grid using A-star algorithm
