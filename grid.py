@@ -15,7 +15,7 @@ class gridmaker:
                 if(i<480 and j<640):
                     if(block[i][j]>0):
                         count=count+1
-        if(count>300):
+        if(count>225):
             return True
         return False
 

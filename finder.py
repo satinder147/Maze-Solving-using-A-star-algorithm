@@ -36,7 +36,7 @@ def main():
     global obj,solve
     fig,ax=plt.subplots()
     grid=obj.returnGrid()
-    ax.imshow(grid,cmap=plt.cm.Dark2)
+    ax.imshow(grid,cmap=plt.cm.Spectral)
     plt.show()
     print("enter start point")
     s1=int(input())
@@ -55,7 +55,7 @@ def main():
 
     xc,yc=line(route)
     fig,ax=plt.subplots()
-    ax.imshow(grid,cmap=plt.cm.Dark2)
+    ax.imshow(grid,cmap=plt.cm.Spectral)
     ax.plot(yc,xc,color="black")
     ax.scatter(start[1],start[0])
     ax.scatter(end[1],end[0])
